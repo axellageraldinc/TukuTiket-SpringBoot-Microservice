@@ -1,0 +1,6 @@
+com/axell/tukutiket/ngirimtiket/NgirimtiketServiceImpl.class
+com/axell/tukutiket/ngirimtiket/NgirimtiketService.class
+com/axell/tukutiket/ngirimtiket/NgirimtiketServiceImpl$1.class
+com/axell/tukutiket/ngirimtiket/rabbitmq/RabbitConfiguration.class
+com/axell/tukutiket/ngirimtiket/emailconfiguration/EmailConfiguration.class
+com/axell/tukutiket/ngirimtiket/nggomlebu/NggomlebuProxy.class

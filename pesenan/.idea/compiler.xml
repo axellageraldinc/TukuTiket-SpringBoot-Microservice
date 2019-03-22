@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="entity" />
+        <module name="main" />
+        <module name="repository" />
+        <module name="service" />
+        <module name="service-dto" />
+        <module name="web" />
+        <module name="web-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="entity" target="1.8" />
+      <module name="main" target="1.8" />
+      <module name="pesenan" target="1.8" />
+      <module name="repository" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-dto" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="web-model" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="entity" options="-parameters" />
+      <module name="main" options="-parameters" />
+      <module name="pesenan" options="-parameters" />
+      <module name="repository" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-dto" options="-parameters" />
+      <module name="web" options="-parameters" />
+      <module name="web-model" options="-parameters" />
+    </option>
+  </component>
+</project>

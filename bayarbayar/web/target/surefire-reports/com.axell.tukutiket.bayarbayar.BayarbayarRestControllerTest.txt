@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.axell.tukutiket.bayarbayar.BayarbayarRestControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.385 s - in com.axell.tukutiket.bayarbayar.BayarbayarRestControllerTest

@@ -1,0 +1,12 @@
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/ConfirmPaymentRequest.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/GenerateQRCodeRequest.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/EventDetailResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/EmailRequest.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/ErrorCode.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/EmailSentResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/OrderResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/OrderDetailResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/GenerateQRCodeResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/OrderRequest.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/PaymentDetailResponse.java
+/Users/axellageraldinc/Documents/Projects/TukuTiket/pesenan/service-dto/src/main/java/com/axell/tukutiket/pesenan/UserDetailResponse.java

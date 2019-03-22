@@ -1,0 +1,6 @@
+com/axell/tukutiket/pesenan/bayarbayar/BayarbayarProxy.class
+com/axell/tukutiket/pesenan/PesenanServiceImpl.class
+com/axell/tukutiket/pesenan/uwong/UwongProxy.class
+com/axell/tukutiket/pesenan/acara/AcaraProxy.class
+com/axell/tukutiket/pesenan/PesenanService.class
+com/axell/tukutiket/pesenan/rabbitmq/RabbitConfiguration.class

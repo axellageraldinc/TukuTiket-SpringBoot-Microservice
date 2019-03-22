@@ -1,0 +1,4 @@
+com/axell/tukutiket/nggomlebu/NggomlebuServiceImpl.class
+com/axell/tukutiket/nggomlebu/rabbitmq/RabbitConfiguration.class
+com/axell/tukutiket/nggomlebu/NggomlebuService.class
+com/axell/tukutiket/nggomlebu/zxingconfig/ZxingConfiguration.class
