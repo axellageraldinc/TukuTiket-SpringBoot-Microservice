@@ -25,3 +25,10 @@ For other services, go to `/main/target` then you'll find the corresponding `.ja
 Find the API documentation [here](http://bit.ly/tukutiket-api-docs)
 
 # Architecture
+![Architecture](https://github.com/axellageraldinc/TukuTiket-SpringBoot-Microservice/blob/master/Architecture.png)
+
+# Get Order Details Flow
+![Get order details](https://github.com/axellageraldinc/TukuTiket-SpringBoot-Microservice/blob/master/GetOrderDetails.png)
+
+# Confirm Payment Flow
+![Confirm payment](https://github.com/axellageraldinc/TukuTiket-SpringBoot-Microservice/blob/master/ConfirmPayment.png)
